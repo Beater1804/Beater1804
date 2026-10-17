@@ -10,11 +10,11 @@ I own the technical side of your product, and set up AI-assisted delivery that f
 
 #### What I take ownership of
 
-- **Architecture & stack** — mobile-first products on Kotlin Multiplatform / Compose Multiplatform, Flutter or native, with Go / Python + Supabase / Postgres backends.
-- **Scope → cost → plan** — turning a product idea into a PRD, technical spec, milestone plan and a realistic estimate.
-- **Team & delivery** — SDLC from spec to plan to reviewed PR to CI/CD; leading in-house or outsourced developers and keeping releases on schedule.
-- **AI-native engineering** — development with AI coding agents under human-reviewed specs, tests and CI gates.
-- **Hands-on when it matters** — architecture spikes, auth, push notifications, camera & streaming, CI pipelines.
+- **The right technical choices** — a product that fits your budget, scales when it needs to, and that you can hire for.
+- **A clear plan before you spend** — what to build, what it costs, and when it ships, in plain language.
+- **A team that delivers** — in-house or outsourced, with releases that land on schedule and quality you can trust.
+- **More output from a smaller team** — AI agents do the heavy lifting, people keep control of every decision.
+- **Hands-on when it matters** — I solve the hardest problems myself instead of just pointing at them.
 
 #### Selected work
 
