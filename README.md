@@ -1,3 +1,5 @@
+<a href="https://beaternguyen.com"><img src="assets/logo.svg" width="72" alt="Beater Nguyen logo"></a>
+
 ### Hi, I'm Beater Nguyen 👋
 
 **Technical Owner** · Mobile-first products · Based in Vietnam (GMT+7)
@@ -27,12 +29,8 @@ I own the technical side of your product, and set up AI-assisted delivery that f
 
 Most of this lives in private repositories. Happy to walk through it on a call.
 
-#### Stack
-
-`Kotlin` `KMP` `Compose Multiplatform` `Android` `iOS` `Flutter` `Dart` `Go` `Python` `TypeScript` `Supabase` `PostgreSQL` `MongoDB` `Firebase / FCM` `Cloudflare Workers` `GitHub Actions` `Claude Code`
-
 #### Work with me
 
 Founders who need a technical owner before (or instead of) a full-time CTO, agencies that need a tech lead for a mobile project, and teams whose codebase needs an audit and a recovery plan.
 
-🌐 [beaternguyen.com](https://beaternguyen.com)
+<img src="assets/logo.svg" width="16" alt=""> [beaternguyen.com](https://beaternguyen.com)

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!--
+    Icon của site, bản tab trình duyệt (spec 0012).
+    Nét chữ B: glyph U+0042 của M PLUS Rounded 1c ExtraBold, cỡ 800 (tên trong file: Rounded Mplus 1c
+    ExtraBold), phiên bản 1.059.20150529, lấy từ file woff2 Latin cỡ 800 mà site tải qua Fontsource,
+    SHA-256 69a2ee93cdfa8fcccec3beed92a9a8c15e4ef6ea7442aa921d83e9180c552423.
+    Copyright 2016 The Rounded M+ Project Authors, SIL Open Font License 1.1.
+    Thuộc tính d giữ nguyên tọa độ của font (1000 đơn vị mỗi em, trục y hướng lên), chỉ transform đặt
+    chữ vào ô. Lệnh lấy nét ghi ở intent/0012-site-icon/plan.md.
+  -->
+  <rect x="2" y="2" width="30" height="30" rx="8" fill="#241c2b"/>
+  <rect width="30" height="30" rx="8" fill="#241c2b"/>
+  <rect x="2" y="2" width="26" height="26" rx="6" fill="#fffdf8"/>
+  <rect x="6" y="16" width="14" height="8" rx="1" fill="#ffd45e"/>
+  <path fill="#241c2b" transform="translate(6.179648 24) scale(0.023952 -0.023952)" d="M243 310L243 134Q243 125 252 123Q273 119 303 119Q374 119 407 145.5Q440 172 440 227Q440 319 290 319L251 319Q243 319 243 310ZM243 596L243 449Q243 441 251 441L276 441Q422 441 422 528Q422 611 300 611Q271 611 251 607Q243 605 243 596ZM132 -2Q108 0 92 19Q76 38 76 62L76 668Q76 693 92.5 711.5Q109 730 133 732Q211 740 286 740Q576 740 576 553Q576 490 535.5 446Q495 402 427 390Q426 390 426 388Q426 387 428 387Q507 376 553.5 327Q600 278 600 210Q600 99 526.5 44.5Q453 -10 296 -10Q217 -10 132 -2Z"/>
+</svg>
