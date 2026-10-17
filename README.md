@@ -18,14 +18,14 @@ I own the technical side of your product, and set up AI-assisted delivery that f
 
 | Project | What it is |
 |---|---|
-| **AI-native SDLC framework** | My own delivery framework: intent → spec → plan → PR, verifier and PR-reviewer agents, hooks that block secrets and direct pushes to `main`, one `verify` gate shared with CI. Self-tested across every project type it scaffolds (132 scenarios). |
-| **Camera Ecosystem** | Flutter consumer app, shared camera SDK and OAuth kit: live streaming, HLS playback, PTZ control and calls. |
-| **Vườn Quê Phản Công** | A mobile game shipped end to end, with Android/iOS CI/CD and in-app update checks. |
-| **EasyCapture** | Camera SDK with real-time subject detection and guided-pose capture. |
-| **[beaternguyen.com](https://beaternguyen.com)** | Bilingual (VI/EN) static site with Blender and Rive art, plus a Cloudflare Workers API gateway. |
-| **Backend starter kits** | Go and Python kits for B2C/B2B auth and customer services, used to start new products fast. |
+| **AI-native SDLC framework** | My own way of shipping software with AI agents, safely and with human review. Runs across all my projects. |
+| **Camera Ecosystem** | A consumer camera app and the shared building blocks behind it. |
+| **Vườn Quê Phản Công** | A mobile game I took from idea to the app stores. |
+| **EasyCapture** | A camera kit that helps people take the right photo. |
+| **[beaternguyen.com](https://beaternguyen.com)** | My personal site, with my own 3D art and animation. |
+| **Backend starter kits** | Ready-made foundations that let new products start in days, not weeks. |
 
-Most of this lives in private repositories. Happy to walk through architecture and decisions on a call.
+Most of this lives in private repositories. Happy to walk through it on a call.
 
 #### Stack
 
