@@ -1,6 +1,6 @@
 ### Hi, I'm Beater Nguyen 👋
 
-**Technical Owner / Fractional CTO** · Mobile-first products · Based in Vietnam (GMT+7)
+**Technical Owner** · Mobile-first products · Based in Vietnam (GMT+7)
 
 I own the technical side of your product, and set up AI-assisted delivery that fits your industry's rules.
 
